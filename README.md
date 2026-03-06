@@ -21,13 +21,13 @@ The analysis was conducted using R and the following packages:
 - ggplot2
 - lubridate
 - readxl
+- RColorBrewer
 
 ## Repository Structure
 
 data/ – raw and processed datasets  
 scripts/ – R scripts used for analysis  
 figures/ – generated visualizations  
-docs/ – methodological notes
 
 ## Visualization
 
@@ -35,7 +35,7 @@ The final visualization shows the monthly number of included articles between Au
 
 ## Reproducibility
 
-The analysis environment can be reproduced using the provided Docker configuration.
+The visualisations were done in R version 4.5
 
 ## Author
 
